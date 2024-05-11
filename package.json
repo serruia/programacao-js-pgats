@@ -1,0 +1,14 @@
+{
+  "name": "trabalho_final",
+  "version": "1.0.0",
+  "description": "Trabalho final da disciplina de Programção para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Santos, Weider",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
